@@ -1,0 +1,3 @@
+# Installation done 
+ NodeJs 
+ TypeScript 
